@@ -1,0 +1,9 @@
+{
+	"name": "produceapi",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "3e756fff-a959-4fa0-ae87-6ca1ead69c62",
+		"tenantId": "51ab1ebc-b17c-4a09-b5ea-c1c7024a7010"
+	}
+}
